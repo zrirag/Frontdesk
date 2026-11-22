@@ -1,6 +1,6 @@
 # Frontdesk API
 
-The Flask development server serves the API and the built Flutter site at `http://127.0.0.1:5000/`.
+The Flask development server serves the API and the built React site at `http://127.0.0.1:5000/`.
 
 ## Database setup
 
